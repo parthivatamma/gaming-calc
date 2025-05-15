@@ -47,15 +47,3 @@ A modern calculator suite containing two different calculators built with Python
 3. Enter the y-intercept when prompted
 4. Choose whether to plot another line
 5. Each line will be drawn in a different color
-
-## Screenshots
-
-[Add screenshots here]
-
-## Contributing
-
-Feel free to fork this project and submit pull requests for any improvements.
-
-## License
-
-[Add your chosen license here]
